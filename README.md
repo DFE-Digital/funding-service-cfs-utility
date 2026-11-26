@@ -12,7 +12,7 @@ This repo holds the utility project for Archival process. It moves data based on
 # Build and Test
 1)Select ArchiveTool project.
 2)Run the code (F5) and provide select the right option.
-3)Validate the number of files read by Utility is exacty saem as you mentioned in App Config query
+3)Validate the number of files read by Utility is exacty same as you mentioned in App Config query
 
 # Contribute
-Other Developers can Pull the code and push the changes to improve performace or add another functionaluty
+Other Developers can Pull the code and push the changes to improve performace or add another functionality
